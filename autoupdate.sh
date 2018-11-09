@@ -20,6 +20,7 @@ item-release
 modsulator-app-rails
 preservation_catalog
 pre-assembly
+rialto-webapp
 robot-master
 sul-pub
 sdr-services-app
