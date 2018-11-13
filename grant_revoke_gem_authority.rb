@@ -8,13 +8,13 @@
 # 2. Set an ENV variable named 'GITHUB_TOKEN' containing your token
 # 3. Gem install github_api
 # 4. Then run this script:
-#    $ ruby ./script/grant_revoke_gem_authority.rb
+#    $ ruby ./grant_revoke_gem_authority.rb
 #
 # To also revoke ownership from users whose email addresses are not in the list:
-# $ WITH_REVOKE=true ruby ./script/grant_revoke_gem_authority.rb
+# $ WITH_REVOKE=true ruby ./grant_revoke_gem_authority.rb
 #
 # To print more information on what the script is doing:
-# $ VERBOSE=true ruby ./script/grant_revoke_gem_authority.rb
+# $ VERBOSE=true ruby ./grant_revoke_gem_authority.rb
 
 require 'github_api'
 require 'open3'
