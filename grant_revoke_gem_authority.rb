@@ -24,7 +24,10 @@ ORGANIZATION_NAMES = ['sul-dlss']
 # Some GitHub user instances do not have an email address defined,
 # so start with the prior list of addresses (registered with Rubygems.org)
 KNOWN_COMMITTER_EMAIL_ADDRESSES = {
-  'jmartin-sul' => 'john.martin@stanford.edu'
+  'jmartin-sul' => 'john.martin@stanford.edu',
+  'mjgiarlo' => 'leftwing@alumni.rutgers.edu',
+  'jermnelson' => 'jermnelson@gmail.com',
+  'jkeck' => 'jessie.keck@gmail.com'
 }
 # Some GitHub repositories are named differently from their gems
 KNOWN_MISMATCHED_GEM_NAMES = { }
