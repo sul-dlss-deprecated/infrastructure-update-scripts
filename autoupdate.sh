@@ -8,6 +8,7 @@ assembly
 common-accessioning
 dor-scripts
 dor-services-app
+dor-utils
 dor_indexing_app
 dor-fetcher-service
 editstore-updater
